@@ -1,5 +1,5 @@
 module.exports = {
-    HOST: "5dsryyny.epizy.com",
+    HOST: " ftpupload.net",
     USER: "epiz_26099114",
     PASSWORD: "hDN7N2VXikQn",
     DB: "epiz_26099114_articles",
