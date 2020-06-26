@@ -7,7 +7,7 @@ const app = express();
 
 var corsOptions = {
   // origin: "https://article-irfan.herokuapp.com"
-  origin : "htttp://woebegone-lunchroom.surge.sh"
+  origin : "http://woebegone-lunchroom.surge.sh"
 };
 
 
